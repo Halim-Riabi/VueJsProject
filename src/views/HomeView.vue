@@ -1,7 +1,7 @@
 <template>
   <div class="landing-page">
     <div class="header">
-      <h1>Welcome to Our App</h1>
+      <h1>Discover the Latest Tech & Gadgets</h1>
       <p>Please log in or sign up to continue</p>
     </div>
 
