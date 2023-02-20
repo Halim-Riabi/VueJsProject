@@ -1,6 +1,6 @@
 <template>
   <div class="sign-up-container">
-    <h2>Sign Up</h2>
+    <h2>Sign Up Here</h2>
     <form @submit.prevent="onSubmit">
       <div class="form-group">
         <label for="email">Email:</label>
